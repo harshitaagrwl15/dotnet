@@ -1,0 +1,13 @@
+/home/harshita/Desktop/dotnet-repo/bin/Debug/netcoreapp3.1/dotnet-repo
+/home/harshita/Desktop/dotnet-repo/bin/Debug/netcoreapp3.1/dotnet-repo.deps.json
+/home/harshita/Desktop/dotnet-repo/bin/Debug/netcoreapp3.1/dotnet-repo.runtimeconfig.json
+/home/harshita/Desktop/dotnet-repo/bin/Debug/netcoreapp3.1/dotnet-repo.runtimeconfig.dev.json
+/home/harshita/Desktop/dotnet-repo/bin/Debug/netcoreapp3.1/dotnet-repo.dll
+/home/harshita/Desktop/dotnet-repo/bin/Debug/netcoreapp3.1/dotnet-repo.pdb
+/home/harshita/Desktop/dotnet-repo/obj/Debug/netcoreapp3.1/dotnet-repo.csprojAssemblyReference.cache
+/home/harshita/Desktop/dotnet-repo/obj/Debug/netcoreapp3.1/dotnet-repo.AssemblyInfoInputs.cache
+/home/harshita/Desktop/dotnet-repo/obj/Debug/netcoreapp3.1/dotnet-repo.AssemblyInfo.cs
+/home/harshita/Desktop/dotnet-repo/obj/Debug/netcoreapp3.1/dotnet-repo.csproj.CoreCompileInputs.cache
+/home/harshita/Desktop/dotnet-repo/obj/Debug/netcoreapp3.1/dotnet-repo.dll
+/home/harshita/Desktop/dotnet-repo/obj/Debug/netcoreapp3.1/dotnet-repo.pdb
+/home/harshita/Desktop/dotnet-repo/obj/Debug/netcoreapp3.1/dotnet-repo.genruntimeconfig.cache
